@@ -19,7 +19,7 @@ I’m Kordai, a self-taught data analyst and human centered design enthusiast fr
 
 ### 🛠️ My Tools
 
-- Databases: SQL (MySQL, SQL Server), Excel (XLOOKUP, Power Query, Power BI, Interactive Visualizations, Pivot tables, IF statements), SalesforceCRM
+- Databases: [SQL](https://github.com/naakordaiaddy/SQL) (MySQL, SQL Server), Excel (XLOOKUP, Power Query, Power BI, Interactive Visualizations, Pivot tables, IF statements), SalesforceCRM
 - Visualisation: Tableau, PowerBI
 - Project Management: Trello, Excel, Sharepoint
 - Marketing: GA4 Training Certificate

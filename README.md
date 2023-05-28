@@ -1,7 +1,5 @@
 # Hi There! 👩🏾‍💻
 
----
-
 I’m Kordai, a self-taught data analyst and human centered design enthusiast from California 🌄
 
 # 🌟 About me

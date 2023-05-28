@@ -1,4 +1,4 @@
-#Hi There! 👩🏾‍💻
+# Hi There! 👩🏾‍💻
 
 ---
 
@@ -23,7 +23,7 @@ I’m Kordai, a self-taught data analyst and human centered design enthusiast fr
 - Visualisation: Tableau, PowerBI
 - Project Management: Trello, Excel, Sharepoint
 
-## 🧩 Connect with Me
+# 🧩 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kordai)
 - [Tableau](https://public.tableau.com/app/profile/kordai)

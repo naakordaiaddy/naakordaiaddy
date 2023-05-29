@@ -18,8 +18,8 @@ I’m Kordai, an established data analyst with an emphasis on community developm
 ## 🛠️ My Tools
 
 - Databases: [SQL](https://github.com/naakordaiaddy/SQL) (MySQL, SQL Server), Excel (XLOOKUP, Power Query, Power BI, Interactive Visualizations, Pivot tables, IF statements), SalesforceCRM
-- Visualisation: Tableau, PowerBI
-- Project Management: Trello, Excel, Sharepoint
+- Visualizations: Tableau, PowerBI, Canva
+- Project Management: Trello, Excel, SharePoint
 
 ### 🧩 Connect with Me
 

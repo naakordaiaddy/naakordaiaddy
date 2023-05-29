@@ -1,18 +1,18 @@
 # Hi There! 👩🏾‍💻
 
-I’m Kordai, a self-taught data analyst and human centered design enthusiast from California 🌄
+I’m Kordai, an established data analyst with an emphasis on community development and food justice. 🌾
 
 ## 🌟 About me
 
-- 🫶🏾 Non-profit human-centered background. My values are cultural relativism, authenticity, people-first mindset, and service.
+- 🫶🏾 My values are cultural relativism, authenticity, people-first mindset, and service.
 - 📚 Loves working with numbers and learning new skills. I taught myself SQL and Tableau. Click [here](https://github.com/naakordaiaddy/SQL-Portfolio-Projects/tree/main/Monthly_Customer_Sales) to view my most recent project.
-- 📊 Uses Excel for just about everything — budgeting, travel itinerary, ideas, task lists
+- 📊 Uses Excel for just about everything — budgeting, travel itinerary, ideas, task lists.
 
 ## 💡 My Skills
 
-- Data preparation, quality assurance, and analysis
-- Database design and modeling
-- Dashboard development and reporting
+- Database engineering, data governance
+- Dashboard development
+- Ad-hoc reporting
 - Exploratory data analysis
 
 ## 🛠️ My Tools

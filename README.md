@@ -2,7 +2,7 @@
 
 I’m Kordai, an established data analyst with an emphasis on community development and food justice. 🌾
 
-## Quick Repository Navigation
+### 🫱🏾‍🫲🏼 Quick Repository Navigation
 - [SQL Portfolio](https://github.com/naakordaiaddy/SQL-Portfolio-Projects)
 - [Standard Operating Procedure Examples](https://github.com/naakordaiaddy/Standard-Operating-Procedures)
 

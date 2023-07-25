@@ -4,6 +4,7 @@ I’m Kordai, an established data analyst with an emphasis on people analytics. 
 
 ## 🫱🏾‍🫲🏼 Table of Contents
 - [SQL Portfolio](https://github.com/naakordaiaddy/SQL-Portfolio-Projects)
+- [Tableau Visualizations](https://github.com/naakordaiaddy/Tableau/blob/main/README.md)
 - [Standard Operating Procedure Examples](https://github.com/naakordaiaddy/Standard-Operating-Procedures)
 
 ## 🌟 About me

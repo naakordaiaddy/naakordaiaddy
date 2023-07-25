@@ -1,6 +1,6 @@
 # Hi There! 👩🏾‍💻 Welcome to Kordai's Portfolio
 
-I’m Kordai, an established data analyst with an emphasis on community development and food justice. 🌾
+I’m Kordai, an established data analyst with an emphasis on people analytics. 🌾
 
 ## 🫱🏾‍🫲🏼 Table of Contents
 - [SQL Portfolio](https://github.com/naakordaiaddy/SQL-Portfolio-Projects)

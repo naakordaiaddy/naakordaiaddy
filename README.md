@@ -30,5 +30,4 @@ I’m Kordai, an established data analyst with an emphasis on people analytics. 
 ### 🧩 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kordai)
-- [Tableau](https://public.tableau.com/app/profile/kordai)
 - [Email](mailto:naakordaiaddy28@gmail.com)

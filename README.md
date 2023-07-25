@@ -1,8 +1,8 @@
-# Hi There! 👩🏾‍💻
+# Hi There! 👩🏾‍💻 Welcome to Kordai's Portfolio
 
 I’m Kordai, an established data analyst with an emphasis on community development and food justice. 🌾
 
-## 🫱🏾‍🫲🏼 Portfolio:
+## 🫱🏾‍🫲🏼 Table of Contents
 - [SQL Portfolio](https://github.com/naakordaiaddy/SQL-Portfolio-Projects)
 - [Standard Operating Procedure Examples](https://github.com/naakordaiaddy/Standard-Operating-Procedures)
 
@@ -18,6 +18,7 @@ I’m Kordai, an established data analyst with an emphasis on community developm
 - Dashboard development
 - Ad-hoc reporting
 - Exploratory data analysis
+- Root-cause analysis
 
 ## 🛠️ My Tools
 
@@ -29,5 +30,4 @@ I’m Kordai, an established data analyst with an emphasis on community developm
 
 - [LinkedIn](https://www.linkedin.com/in/kordai)
 - [Tableau](https://public.tableau.com/app/profile/kordai)
-- [Portfolio](https://kordai.me/)
-- [Email](mailto:naakordaiaddy@gmail.com)
+- [Email](mailto:naakordaiaddy28@gmail.com)

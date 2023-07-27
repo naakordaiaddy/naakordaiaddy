@@ -1,6 +1,6 @@
 # Hi There! 👩🏾‍💻 Welcome to Kordai's Portfolio
 
-I’m Kordai, an established data analyst with an emphasis on people analytics. 🌾
+I’m Kordai, an established data analyst with an emphasis on people analytics and managing organization-wide data.
 
 ## 🫱🏾‍🫲🏼 Table of Contents
 - [SQL Portfolio](https://github.com/naakordaiaddy/SQL-Portfolio-Projects)

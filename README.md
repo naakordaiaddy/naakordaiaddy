@@ -24,7 +24,7 @@ I’m Kordai, an established data analyst with an emphasis on people analytics a
 ## 🛠️ My Tools
 
 - Databases: [SQL](https://github.com/naakordaiaddy/SQL) (MySQL, SQL Server), Excel (XLOOKUP, Power Query, Power BI, Interactive Visualizations, Pivot tables, IF statements), SalesforceCRM
-- Visualizations: [Tableau](https://public.tableau.com/app/profile/kordai), PowerBI, Canva
+- Visualizations: [Tableau](https://public.tableau.com/app/profile/kordai), PowerBI, SharePoint, PowerPoint, Canva
 - Project Management: Trello, Excel, SharePoint
 
 ### 🧩 Connect with Me
